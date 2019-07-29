@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Em mới mua ip6s 128g . Diện thoại e chưa kích hoạt lun . Bữa e bị mất . Có cách nào tìm ra đt của e không . Vỏ hộp còn . E cảm on ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 45.002766,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Cho em hỏi e bị mất chiếc iPhone 6s chưa kích hoạt . Bằng số sire hoặc mấy dãy số trên vỏ hộp có tìm lại được không . Hoặc có cách nào khác không . Em cảm ơn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 32.534058,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Cho e hỏi e mới mua máy iphone x. Nhưng chưa cài đặt gì thì bị mất. Chỉ còn số imei . vậy có cách gì tìm lại điện thoại không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.889385,

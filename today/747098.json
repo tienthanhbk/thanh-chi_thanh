@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Mình nâng cấp lên iOS 9.1 bây giờ mình muốn hạ xuống iOS 9.0.2 có được không? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 28.835798,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Có thể hạ cấp IOS 9.1 xuống IOS 9.0.2 để Jaibreak được không a? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 26.849892,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Cho hỏi Thế giới di động có hạ cấp được iOS 9.1 xuống 9.0.2 được không ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 22.81495,

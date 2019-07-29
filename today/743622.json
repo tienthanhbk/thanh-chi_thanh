@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Chào bạn, mình quên mật khẩu Icloud, mail đăng kí cũng là mail Icloud. Ngày sinh mình nhớ mà nó bảo ko đúng. Còn cách nào khác để mở khoá máy không bạn?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 34.437847,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Chào bạn. Mình không nhớ rõ mật khẩu id apple nên đăng nhập nhiều lần dẫn đến bị khoá tài khoản. Các bạn có các nào để giúp mình lấy lại tài khoản và mật khẩu không ạ,mình dùng iphone 6 plus, ios 10.1.1. Thaks bạn nhiều",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.538235,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Mình đang dùng iPhone 4 muốn hỏi mình quên Mail và mật khẩu, làm cách nào để tìm thấy được? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.270527,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Mình lập icloud bằng địa chỉ mail cũng đuôi icloud.com, bây giờ mình quên mất mật khẩu icloud, ko biết lấy lại mật khẩu bằng cách nào. các bạn giúp mình với!! :(",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 32.38249,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Mật khẩu chạy chương trình iPhone 4 và khi mình quên mật khẩu của tài khoản ID mình phải làm gì mới lấy lại được. ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.476028,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " em quên ID và email của icloud nhưng nhớ mật khẩu làm thế nào để lấy lại ID  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.26743,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "Em đang sử dụng iphone 6 plus nhưng vì lâu quá không sử dụng đến tài khoản icloud nên bay giờ e đã quên mật khẩu... Vậy làm cách nào tìm lại mật khẩu ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 30.415016,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Hi Ad, Mình quên mật khẩu của icloud đã đến nhờ bạn mình cài đặt lại máy nhưng khi vào mục Cài đặt hoàn tất ID thì mục này mình lại nhớ mật khẩu ban đầu cài đặt máy thì có cách nào hoàn tất được không ạ. Đời máy của em là Iphone 8 Plus ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 30.03872,

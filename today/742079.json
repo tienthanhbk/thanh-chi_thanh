@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Trong quá trình sử dụng tôi bị mất mật khẩu google do cửa hàng tạo xin giúp đỡ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 15.846954,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Nếu mình quên luôn  mật khẩu của google  luôn thi sao",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 15.664677,

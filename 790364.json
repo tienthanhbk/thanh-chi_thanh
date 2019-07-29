@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Vì em mới mua lại điện thoại iPhone 4 nên em không biết gì đến tài khoản iCloud giờ em hỏi lại và người chủ cho em mật khẩu đăng nhập nhưng khi em đăng nhập để tải ứng dụng thì máy báo sai mật khẩu, giờ QTV cho em hỏi có cách nào để đăng ký lại tài khoản iCloud để sử dụng không ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 47.813816,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Bị quên tài khoản và mật khẩu iCloud giờ làm cách nào để kích hoạt lại iPhone 5S? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 46.49969,

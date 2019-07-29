@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Thế giới tạo tài khoản id apple dùm em được không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.754028,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Anh ơi em ra TGDĐ nhờ hỗ trợ tạo giúp Apple ID miễn phí bằng ịPhone được không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.253777,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " Em có thể qua thế giới di đông để có thể nhờ nhân viên kĩ thuật tạo tài khoản ID Apple được không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 25.238655,
@@ -99,7 +99,7 @@
          "field_search": "question",
          "question": "Hiện tại em bị mất ID apple kh biết thế giới di động có thể tạo chi em một cái mới",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.712418,

@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Xin chào hiện tại tôi đang sài samsung galaxy j7 prime và lớp kính màn hình của tôi bị vỡ. Tôi xin hỏi chi phí thay thế là bao nhiêu và mất bao lâu?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 44.303917,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Tôi xài điện thoại Samsung Galaxy J5 prime, hiện tại bị bể màn hình nhưng vẫn cảm ứng bình thường, vậy giá tôi thay màn hình là bao nhiêu?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 44.081165,

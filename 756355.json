@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " AD ơi. Hiện giờ em đang dùng iPhone 5 chạy ios 9.1 mà giờ nó gửi em bản 9.2. Vậy em có nên nâng lên 9.2 không ạ...???  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 38.939335,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi chút mình đang dùng ios 9.1 có nên nâng cấp lên ios 9.2 không ? ios 9.2 có bị lỗi giừ không ạ ? cách nâng cấp lên ios 9.2 như nào ạ ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 38.06067,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Ad cho mình hỏi ios 9.2 đã ổn định chưa vậy.mình dùng đang dùng iPhone 5s ios 9.1 bây giờ muốn lên 9.2 có ổn không nhỉ???",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 35.303333,

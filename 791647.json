@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " tạo tài khoản trên iphone có mất tiền không ạ thế giới di động? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.72653,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Thế giới tạo tài khoản id apple dùm em được không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.150047,

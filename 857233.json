@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Em xài iPhone 4 iOS 7.1.2 nhưng tải cam360 về thì xài không được. Thử lên tải ứng dụng appstorevn để tải các ứng dụng khác thì cũng không được luôn.Cho rồi hỏi làm sao để em tải được các ứng dụng trên appstorevn hay phải root máy.Thank",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.117462,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " bạn ơi! cho mình hỏi, sao iphone se mình tải facebook, camera 360 về ko đc ạ!!! ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.439564,

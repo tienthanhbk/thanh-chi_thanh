@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Ở TGDD của mình có thay bàn phím laptop hk ad, laptop dell 15.6 bàn phím giá nhiêu",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 19.638048,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " qtv ơi cho hỏi ở tgdd có thay bàn phím laptop Dell N4050 không ạ. Bàn phím e bị liệt, và giá thay cao không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 18.981632,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": " bàn phím laptop bị liệt phím q, e, p, backspace do lỗi j vậy ad? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 17.146393,

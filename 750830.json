@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi tgdd hỗ trợ nâng cấp lên windows 10 miễn phí phải không ạ ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 37.063164,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Làm sao để nâng cấp Windows 7 lên Windows 10 pro miễn phí? Hướng dẫn chi tiết giùm mình nha ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 34.76132,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Em muốn ra thế giới di dộng để nâng cấp từ hệ điều hành 7.1.2 lên 8.0 thì có tốn phí nâng cấp không ạ, hay được miễn phí ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.667414,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Mình muốn nâng cấp máy lên Windows 10 TGDD cài bao nhiêu vậy qtv? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.184898,

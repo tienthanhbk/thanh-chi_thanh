@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Cho tôi hỏi điện thoại nào chơi game nặng tốt với giá từ 2 đến 3 triệu",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 37.0899,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "Cho hỏi máy chơi liên quân từ 2 đến 3 triệu nên mua máy nào vậy",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.51448,

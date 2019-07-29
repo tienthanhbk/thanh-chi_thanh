@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "hướng dẫn cách khắc phục lỗi facebook messenger báo đã xảy ra lỗi, vui lòng thử lại với ạ. em bấm vô cuộc trò chuyện là bị báo lỗi như vậy.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 39.370583,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.354923,

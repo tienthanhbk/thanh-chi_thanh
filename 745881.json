@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Tại sao iphone lại hiện quả táo ở màn hình mãi vậy.giống như là bị đơ ấy ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.38701,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Hiện máy iphone 6 của mình bị đơ, mình đã đặt lại cài đặt nhưng giờ nó chỉ hiện lên màn hình trắng khởi động với trái táo suốt. Vậy máy mình đang bị gì vậy?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 35.546616,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Em có con iphone 5 cứ hiện hình quả táo mà màn hình trắng thì phải làm sao ak.mong cửa hàng tư vấn giúp em ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 33.803432,

@@ -5,13 +5,13 @@
    "max_score": 135.08308,
    "origin_question": "Chào anh / Chị. Cho em hỏi lap của em không thể tải được ứng dụng trong microsoft store. Khi search ứng dụng cần tải là không hiện ra ứng dụng cần tìm và không cho phép tải. Anh/ chị có thể trả lời thắc mắc của em được không ạ ?",
    "hits": [
-    {
-        "score": 135.08308,
+      {
+         "score": 135.08308,
          "id": "1155921",
          "field_search": "question",
          "question": "Chào anh / Chị. Cho em hỏi lap của em không thể tải được ứng dụng trong microsoft store. Khi search ứng dụng cần tải là không hiện ra ứng dụng cần tìm và không cho phép tải. Anh/ chị có thể trả lời thắc mắc của em được không ạ ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 72.713196,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "chào anh/chị ạEm đang sử dụng laptop dell mà không biết sao mà em không thể lên store của máy để tải ứng dụng về được ạ. Khi mở ứng dụng thì nó lại mở link vào internet explorer và không thể nào tải được ứng dụng . Mong anh/chị giúp em sửa lỗi máy vs ạ. Em cám ơn",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 65.48426,

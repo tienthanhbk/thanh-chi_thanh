@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Sáng hôm nay em mới mua sim vina bùm data 250k và đã nạp 10k để kích hoạt,cho em hỏi mỗi tháng có phải nạp tiền để k bị khóa sim k",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 33.258198,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Mua sim vina bùm data hết 250k và chỉ cần nạp ít nhất 10k  1lần duy nhất, k cần nạp chỉ cần hàng tháng có nghe gọi là duy trì đc phải k ah?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 27.550392,

@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "TGDĐ có thay mặt kính iPhone 6s ko. Giá là bao nhiêu vậy ?MÌnh mới mua  iPhone 6s ở TGDĐ mới rơi khoảng cách 20cm mà đã bị vỡ mặt kính, híc",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.226807,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Anh chị cho mình hỏi máy iPhone 6 vỡ mặt kính có thay được không ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.930775,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Em dùng iPhone 6 bị vỡ màn hình ở TGDĐ có thay không nhỉ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.324131,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Ở tgdd có thay kính iPad mini bị vỡ màn hình ko ạ ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.664785,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " TGDĐ có nhận thay màn hình Ipad mini bị vỡ kính không ah? Ipad này của người bạn nước ngoài tặng mình. ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.741217,
@@ -99,7 +99,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi mặt kính iPhone 6 của mình bị vỡ, thay mới thì giá khoảng bao nhiêu ạ, mình mua máy tại hãng luôn ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.57162,

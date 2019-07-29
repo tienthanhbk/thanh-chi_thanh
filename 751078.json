@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Toi quen ID iphone 4s làm thế nào để lấy lai ID vả lại tôi quên ko nhớ email tôi phải làm sao ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.906246,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Em muốn chạy lại chương trình cho iPhone 4S vì em quên mật khẩu iCloud, vậy thì bao nhiêu tiền vậy ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.281467,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Mình quên mật khẩu của iPhone 4S làm sau mình cài lại được? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.004238,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Em quên mã iphone. làm thế nào để mở lại đc vậy??Chỉ cho em cách tìm lại và nếu ra cửa hàng thì tìm lại mất bao nhiêu tiện??",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.155952,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Mình quên mật khẩu ID Apple thì phải làm sao ạ Điện Iphone 6",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 20.67867,

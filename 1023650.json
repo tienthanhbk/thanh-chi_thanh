@@ -5,13 +5,13 @@
    "max_score": 92.810234,
    "origin_question": "Qtv ơi sao điện thoại của em nó ko lên màn hình mà nó cứ xoay rùi khởi động ứng dụng hoài nó ko lên màn hình chính nữa",
    "hits": [
-       {
+      {
          "score": 60.99727,
          "id": "1023651",
          "field_search": "question",
          "question": "QTV ơi em xài điện thoại obi mv1 (Cyanogen) mà sao em đang chơi tự nhiên nó sập nguồn rồi em mở lên nó cứ xoay rùi khở động ứng dụng hoài mà nó không lên màn hình nữa.Bây h em phải làm sao",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 43.065796,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "các anh chị cho em hỏi, em có sử dụng một cái điện thoại coolpad R106 nó cứ khởi động hoài nhưng nó không lên màn hinh được. mong sự chỉ dẩn của anh chị",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 40.133736,

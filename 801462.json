@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Lần trước mình có tải về đc nhưng đã xóa đi giờ muốn tải lại zalo mà không được? bạn xem giúp mình với? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 30.251158,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Mình dùng ipad mini 2 muốn tải zalo nhưng tìm mãi không có. Bạn có thể hướng dẫn mình tải zalo về máy được không ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 30.030045,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": " Em xoá zalo tren ios mà giờ cài đặt lại không được là thế nào? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 25.405811,

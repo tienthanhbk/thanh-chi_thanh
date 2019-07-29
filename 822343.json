@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Em muốn JailBreak iphone 4s của em nhưng bị vướng ở mật khẩu mã hóa bản sao lưu iphone. Em phải lấy mật khẩu đó như nào ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.730412,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Máy iPhone của mình bị mất mật khẩu iCloud có làm cách nào để lấy lại. Hoặc thay thế linh kiện được ko ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.792955,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": " Tôi quyên mật khẩu ID làm thế nào để lấy lại được có ai biết không gúp tôi với. ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.377977,

@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Mình không tải Facebook về má được ... hệ điều hành ios 10.0.1",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 56.15662,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Mấy anh ơi máy em chạy iOS 6.1.6. khi tải Facebook thì nó yêu cầu iOS 7.0 trở lên. anh chị có cách nào tải về không chỉ em với?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 52.359352,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Xin hỏi hệ điều hành iOS App Store khi cài đặt ứng dụng báo lỗi \"ứng dụng này đòi hỏi phải có iOS 8.3 hoặc mới hơn bạn phải cập nhật lên iOS 8.3 để tải về và sử dụng ứng dụng này \"chỉnh lại như thế nào Cảm ơn",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 48.031693,

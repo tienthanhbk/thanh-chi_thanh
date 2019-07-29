@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Chỗ mình có bán trả góp không shop. Nếu có thì 5S trả góp chương trình như thế nào ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.391731,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Em là 1 học sinh lớp 12, em muốn mua iPhone 5S 8tr4 trả góp thì cần có những giấy tờ gì và trả góp như thế nào ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.610853,

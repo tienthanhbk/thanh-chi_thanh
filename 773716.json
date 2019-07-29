@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi làm cách nào để nhận biết iphone 6 quốc tế vậy ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.645401,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Làm sao để nhận biết iphone 5s bản lock hay bản quốc tế ạ ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.60778,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "QTV cho em hỏi cách nhận biết iPhone chính hãng, bản quốc tế, nước sản xuất, ngày sản xuất để em tự tin ra TGDD tậu 1 em về ăn tết.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.381145,

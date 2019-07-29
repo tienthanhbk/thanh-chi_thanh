@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Ad cho em hỏi iPhone 6 plus số imei 354451063824590 này có phải chính hãng không và còn bảo hành không ad? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 19.396059,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Kiểm tra hộ mình số IMEI nầy có phải máy iPhone 5 chính hãng không, và thời gian bảo hành còn hết, Imei: 990003202604977",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 18.344809,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Anh ơi cho em hỏi số IMEI này của máy iPhone 5S có phải là hàng chính hãng không anh nhé? 358769057777631 ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 17.931253,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "Ad kiểm tra giúp mình imei máy iphone này với. Là chính hãng hay xách tay. Có bảo hành không. Cám ơn ad 354393065585037",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 17.815315,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Check giùm mình cái imei này có phải chính hãng không và có phải là bản quốc tế hay bản lock35 880805 39969 18 ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 17.357704,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " 35875705526627 Anh giúp giùm em kiểm tra imei này phải hàng chính hàg không ak ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 17.148201,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": " Cho em hỏi mặt sau iPhone 6s của mình không có chữ IMEi có phải hàng chính hãng không ạ?  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 16.959776,
@@ -99,7 +99,7 @@
          "field_search": "question",
          "question": "e muon kt thoi gian bao hanh cua may moi mua ma ko co imei thi sao a, e cho nho moi sdt thoi 01204491799",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 16.662556,

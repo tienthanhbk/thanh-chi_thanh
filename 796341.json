@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Máy a7 của mình đang dùng thì bị đơ màn hình, không tắt nguồn được, cũng không khởi động lại được thì phải làm thế nào?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 33.894638,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Bạn cho mình hỏi iphone 6s của mình bị đơ cảm ứng không bật tắt được phải ấn cả nút Home và nút nguồn để khởi động lại máy mấy lần rồi là sao đây hả bạn ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 30.860239,

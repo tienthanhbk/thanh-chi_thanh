@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "minh co iphone5s bi vo hieu hoa ket noi itune. nhung may bi hu nut home nen khong the dua ve dfu. ai co cach nao xin chi giup. Thanks",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 27.317009,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Cho e hoi  e co cai iphone 6s bi vo Hiêu hoa gio lam sao",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 27.317009,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "Cho e hoi e co cai iphine6s bi vo Hiêu hoa  làm sao a ha",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.426079,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Cho e hoi e co cai iphine6s bi vo Hiêu hoa  làm sao a ha",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 25.616835,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "Ad cho minh hoi id apple cua minh bi vo hieu hoa bay gio phai lam gi cung nhu cap nhat game hoặc YouTube thi may bao id apple cua ban bi vo hieu hoa do bao mat thi phai lam sao?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.693697,
@@ -99,7 +99,7 @@
          "field_search": "question",
          "question": " aiphonne 5 bi vo hieu hoa ma kko co tai kkhoan icloud vay minh phai lam sao day ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.932795,

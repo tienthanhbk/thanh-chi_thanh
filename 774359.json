@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Khi Reset iPhone nó báo đang nhập iCloud, em nhớ rõ iCloud là vậy mà sao đăng nhập không được ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 18.51921,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Cho hỏi , máy iphone 4 của mình mua lại máy cũ giờ reset nhưng không có mật khẩu icloud, có cách nào sửa được không? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 18.472736,

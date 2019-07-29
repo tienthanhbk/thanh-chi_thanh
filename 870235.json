@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Em xài lap Asus tp500la core i3 đã nâng cấp lên win 10. Lúc trước xài vẫn bình thường nhưng đột nhiên hôm nay khởi động máy đến phần đăng nhập thì màn hình đen chả thấy gì cả, chỉ thấy con trỏ chuột thôi. Làm sao để khắc phục ạ ???",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.384007,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Em đang dùng Asus máy em khi mở lên thì thấy màn hình đen và con trỏ chuột 🐭.. Không biết máy em bị gì ạ.. Adm giúp e với",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 30.7482,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Chào quản trị viên... Cho e hỏi laptop của e khi mở lên có màn hình đen.. Nhưng thấy con trỏ chuột 🐭.. Máy của em bị gì v ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.568893,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Làm sao khi màn hình win10 đen thui với con trỏ chuột cho dù chờ đợi bao lâu hoặc khởi động lại hoặc gọi Task Manager? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 27.61173,

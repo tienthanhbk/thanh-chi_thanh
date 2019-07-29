@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " cho e ? e dung iphone 5 bh sac ma k su dung nhung van k len phan tram nao ma con giam nx la do may hay do pinn a ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 37.144226,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Sau dien thoai em sac khong đuoc. Da rut xac roi dang sac lia chia het. La sau day. Cho e bit di",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.472355,
@@ -99,7 +99,7 @@
          "field_search": "question",
          "question": " cam sac iphone 4s hien thi phan tram pin ma khong tang phan tram ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.475224,

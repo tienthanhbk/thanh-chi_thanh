@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Laptop của em có một số phím không ăn và màng hình dọt nhiên bị tắt thì sửa có nhiều tiền khong ạ ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.63251,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " Laptop của em bị hư bàn phím không biết bên thế giới di động có sửa không ạ ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.537529,

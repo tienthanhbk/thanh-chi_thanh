@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Anh chị cho em hỏi máy iPhone 5s của em nút nguồn nó bị lỏng lỏng bấp bênh thì có sao không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.488817,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Mình mới mua iPhone  5s tại TGDĐ, tại sao nút tăng giảm âm lượng của 5s lại có độ rơ so với 4 và 4s (4 va 4s ko sụt sịt),NV kĩ thuật nói 5s phiên bản quốc tế là như vậy, cho mình hỏi có phải như vậy không",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.847193,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Em mới mua 1 chiếc nokia 6, bây h nút home với nút tăng giảm âm lượng bị lung lay thì có ảnh hưởng gì không ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.002157,

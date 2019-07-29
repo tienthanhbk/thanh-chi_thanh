@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Mình muốn mua 1 chiếc iPhone 6 16GB, trả trước 0 đồng trong vòng 6 tháng thì cần thủ tục gì? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 34.390858,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Cho em các thông tin về mua điện thoại trả góp 0 đồng và thủ tục như nào ạ ...trước em có hỏi một vấn đề khác mà chưa có phản hồi",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 34.102318,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Chào ad. Cho mình hỏi, mình muốn mua điện thoại iphone 6s trả góp. thủ tục và giấy tờ cần chuẩn bị như thế nào ad? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.674618,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "cho hỏi mình muốn mua máy trả góp không đồng thủ tục như nào",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.080883,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "em muốn mua điện thoại galaxy a5 2017 trả góp, cho em hỏi là phải trả trước bao nhiêu tiền ạ, em là sinh viên thì thủ tục gồm những gì ạ? và có áp dụng trả trước 0 đồng không ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.95282,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " e muốn mua trả góp máy này làm như nào ạ.máy acer aspire E5 471 i3 4005U4GWin8.1 loại có DVD  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.83466,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Chào ad. Cho mình hỏi bên mình có chương trình làm thẻ trả góp 0% cho khách hàng đã trả góp lần trước đó. Có thẻ đó khj mua lần sau không cần phải làm thủ tục lại không vậy? Thks ad.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.760742,
@@ -791,4 +791,3 @@
       }
    ]
 }
-      

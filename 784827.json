@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Mình muốn tải ứng dụng diệt virus trên iPhone mà không biết phải làm thế nào? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.496424,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Muốn diệt virut cho iphone thì làm thế nào anhchi giúp e với ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.092049,

@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Cho e hỏi laptop Dell Inprison và Dell Vostro cái nào cấu hình mạnh, tốt hơn, cái nào đẹp, nhẹ hơn ạ? Cảm ơn ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 46.091633,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Chào TGDĐ .. cho e xin tư vấn về dòng máy nào tốt để mình dùng.. phục vụ cho sinh viên nhàng xây dựng ạ.. e đang phân vân.. k biết mua loại nào tốt và rẻ để cho e của e đi học ạ. Tầm 12tr trở lại ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 45.60285,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Cho e hỏi e muốn học đồ hoạ thì e nên mua laptop nào ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 39.59812,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " Cho hỏi ở đây có dòng laptop dell precision không mình cần để thiết kế đồ họa ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 38.80636,

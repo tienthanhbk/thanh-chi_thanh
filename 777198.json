@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Shop cho mình hỏi là shop có hạ cáp iPhone 4 ios 7.1.2 xuống 6.1.2 được không ạ ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 38.847042,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " iphone 4 chạy ios 7.1.2 hiện tại có thể hạ cấp xuống ios 6.1.3 đc ko ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.881207,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi mình có em iphone 4s đang chạy ios 8.2 giờ mình muốn hạ xuống 6.1.2 có được không nhỉ nếu hạ được thì có ảnh hưởng gì đến máy không?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 27.096548,

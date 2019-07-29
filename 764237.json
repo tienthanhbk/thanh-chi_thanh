@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Ad oi,check dùm em xem iphone này phải hàng chính hãng không nhé ad.số seri C36P6K3EG5MQ va imei là 353267077779468",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.856873,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Ad cho mình hỏi máy này có phải chính hãng Apple không ạ 013888007203329 ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.85248,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Bạn giúp mình chek imei này xem là  lock hay word .355416076431872  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.671339,

@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "E đang xài iphone 5s bản ios 8.4. Mấy ngày hôm nay e không vào được bảng xếp hạng app store. K biết tại máy e lỗi hay tại sao? Mong các pro giúp đỡ. E cảm ơn",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.68543,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi là tại sao mình dùng ip6 lại không vào được Bxh AppStore??? Các thư mục khác của AppStore vẫn vào được bình thường nhưng riêng BXH là không vào được.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.54302,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "ad ơi cho em hỏi máy em ip 5s đang chạy ios 10.02 mới nhất nhưng sao em vào app store thì ở bên phần Danh Mục và phần Bảng xếp hạng không kết nối đc.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.588146,

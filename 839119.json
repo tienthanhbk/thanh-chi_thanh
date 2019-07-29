@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " ad cho hỏi cấu hình thế này chơi lmht mượt k ạ. hay là máy core i5  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 39.635452,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi cấu hình laptop i5-3230m, ram 4gb, bộ nhớ 500gb, card rời gt 635m có chơi được liên minh huyền thọai không?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.448658,

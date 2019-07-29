@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "dạ em chào anh chị ạ, em đang dùng loại lap dell vostro i5 3568, em muốn nâng cấp ram thì nên dùng loại ram nào ạ? và giá thành của từng loại am ntn để em tham khảo ạ. em cảm ơn.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 72.3988,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Em có máy Dell Vostro 5470 dòng i7, em muốn nâng cấp ram lên 8Gb hoặc 16Gb. Cho em hỏi là thegioididong có dịch vụ nâng cấp ram không ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 69.722404,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Xin hỏi Hiện em đang sử dụng máy Dell inspiron 15 với ram 4Gb, nay em muốn nâng lên thành ram 8Gb thì chi phí hết bao nhiêu?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 66.9709,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": " Máy tính mình hiện giờ là core2 cpu e6750 ram 1gb . mình muốn nâng cấp ram xin hỏi nên nâng cấp loại ram j ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 66.49441,

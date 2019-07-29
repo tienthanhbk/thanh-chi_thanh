@@ -5,13 +5,13 @@
    "max_score": 101.12953,
    "origin_question": "E mua máy oppo f9 đc hơn tháng Lúc Giá còn 7.690kGiờ e mún đổi f9 này thành cái f9 màu khác thì bù bao nhiêu ạ",
    "hits": [
-   {
+      {
          "score": 52.311512,
          "id": "1165708",
          "field_search": "question",
          "question": "Mình có mua điện thoại Oppo F9 sài đc 3 tháng. Giờ mình muốn đổi F9 lấy F11 thì phải bù bao nhiu tiền. Hoặc đổi F9 lấy F9 Pro thì bù bao nhiêu",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 47.327972,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "F9 e mua ở tgdd hồi tháng 92018 bây giờ nếu e muốn đổi F11 thì bù bao nhiêu ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 44.258034,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Oppo f9 mới dùng được hơn 5th đổi qa sam sung s8 thì bù bao nhiêu ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 42.975143,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "e mua oppo F9 được 6 tháng, giờ muốn đổi qua oppo F11 pro thì phải thêm bao nhiêu tiền nữa ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 41.478348,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "E có oppo f9 còn bảo hành 5 tháng muốn lên ss a50 thì thêm bao nhiêu ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 40.916668,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Đt oppo f9 mình mới mua được 1 tháng rưỡi mình muốn đổi sang oppo f11 pro phải bù bao nhiêu ạk",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 40.388042,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Cho e hỏi e mới mua samsung a7 2018 mà giờ muốn đổi oppo f9 phải bù bao nhiêu tiền. Máy mới không trầy xước gì",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 39.85572,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "M có mưa Oppo f9 giờ mua máy khác đổi bao cáp bao nhiêu phần trăm",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 39.40547,

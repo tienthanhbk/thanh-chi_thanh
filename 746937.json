@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Cho em hỏi laptop dell nào chơi mượt lmht rất thấp giá rẻ nhất ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 22.020752,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " mình đang tìm 1 laptop giá dưới 10tr, đủ chiến mượt game liên minh hay ff3, shop có thể tư vấn giúp dc ko ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 20.375177,

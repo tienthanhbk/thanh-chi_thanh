@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " Ad kiểm tra dùm số seri 013532001996211 là bản quốc tế hay lock vậy? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.82315,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": " Mình đang dùng iphone 5S  nhờ bạn kiểm tra dùm ố imei 013989000746007 có phải là phiên bản quốc tế không? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.44793,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Kiểm tra giúp mình imel 01359600610135  là bản mở khóa hay quốc tế? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.338184,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": " Anh ơi kiểm tra dùm em xem cái này là 6 lock hay quốc tế vậy ạ 359257069753278? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 35.64522,
@@ -99,7 +99,7 @@
          "field_search": "question",
          "question": " Giúp em kiểm tra imei iPhone 5 là bản quốc tế hay lock 0133752000524751 ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 35.237278,

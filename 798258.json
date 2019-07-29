@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Hỏi về iPad mini 1 iOS 9 có xuống được iOS 7 không add ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 33.2346,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi là ipad mini , hình như là mini 1 có nên lên ios 9 ko ạ, tại giờ thấy nhìu ứng dụng hữu ích mà yêu cầu ios 8,9 ko hà, với lại khi lên ios 9 thì quay lại ios 7 dc ko ạ, cho mình lời khuyên nhé!",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.416767,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Chào ad ạ, hiện tại e đag dùng ios bản 9.2 bây giờ em muốn hạ xuống bản ios 8 được không ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.294905,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Em dùng iPhone 5, mấy hôm trước em có cập nhật lên iOS 9.2 nhưng giờ em muốn quay lại phiên bản iOS cũ (7.1.4) thì có cách nào không ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 30.053873,

@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 61.753407,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Hiện tại mình đang dùng ip4s mà quyên mật khẩu h mình muốn cài lại máy nhưng ko nhớ mật khẩu liệu mònh cài lại bị trắng máy thì có thể sửa được không? Và muốn lấy lại mật khẩu thì làm thế nào? Không phải mật khẩu khoá màn hình đâu nhé!!!",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 51.585888,

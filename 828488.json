@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " như này là bị sao ạ đăng nhập lại nó hiện lên như này ạ huhu nhập đúng mật khẩu rồi    ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.590435,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "ad ơi , ad cho em hỏi là đt em bị như vậy là bị hư gì vậy ad ?    ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 28.539364,

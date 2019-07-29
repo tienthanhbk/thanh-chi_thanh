@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Máy của mình đã jailbreak. Khi bấm vào Đặt lại Tất cả Cài đặt có bị treo táo không? Không phải bấm vào Xóa Tất cả Nội dung và Cài đặt nhé!",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 60.328564,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "EM dùng iphone 5 ,đã jaibreck sau khi em xóa tất cả và đặt lại thì máy bị treo táo Ad có thể hướng dẫn em cách khắc phục được ko?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 54.76038,

@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Em dùng iPhone 5 khi xem phim thấy máy báo có virus 17 con có lúc lên 52 con rồi nếu không diệt virus sẽ hỏng pin tới 72%. Lần sau vào lại hiện và hiện hình ảnh của phần cài đặt đang quét virus ạ ? Cho em hỏi máy em bị nhiễn virus không? Cảm ơn .",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 68.76297,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Em đang dọc báo trên iPhone 5 thì máy báo có virus bảo diệt em bấm ok thì nó ra mấy trang web. Thấy vậy em tắt máy, như vậy có bị dính virus không? Sao mọi hôm sạc pin bình thường hôm đó sạc pin xong nó báo dây cáp chưa xác nhận không hợp với iPhone.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 66.98463,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Cho em hỏi iPhone em đang xài nó hiện báo pin bị hỏng phát hiện 19 virus là sao vậy. ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 64.49926,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Tôi dùng iPhone 3gs và hay lên mạng xem truyện và có truyện ở web đen nữa ạ, hôm đó tôi thấy báo có 6 virus và máy bị hỏng pin và sim 28% , rồi kêu gửi tin nhắn về số 6909, vậy máy tôi có thực sự bị nhiễm virus không ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 61.907528,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "Máy của tôi là iPhone 4 gần đây pin của máy hao hụt nhiều 1% 1 phút và thỉnh thoảng máy lại báo bị nhiễm virus nặng và pin bị hỏng, như vậy máy tôi có bị nhiễm vỉrus ko?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 60.36387,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Em xài iphone 5,em vô safari hay chrome down về vô web xem phim em hay bị nhảy trang và báo là có virus nhưng em mượn điện thoại bạn cũng vô web xem phim đó mà kh bị nhảy. Vậy điện thoại em có bị virus kh ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 60.199265,

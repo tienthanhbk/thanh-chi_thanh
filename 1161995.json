@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Tôi đang góp diện thoại đuoc 3 lần còn 3 lần nữa xong,giờ tôi muốn mua góp thêm 1 cái có duọc k",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 37.686497,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Cho em hỏi em mới mua trả gops 1 cái đt oppo a3s rồi bây giờ em trả góp thêm 1 cái f9 nữa được k ạ???",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.884785,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Cho mik hỏi mik có góp 1 cái điện thoại đã góp xong bây h mún góp thêm 1 cái nữa thì có cần làm hồ sơ lại ko ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 36.225967,

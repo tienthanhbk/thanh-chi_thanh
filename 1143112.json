@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " IPad air quay video không có âm thanh mà chỉ có tiếng rè rè. ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.432755,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "  Lenovo A6010 mà quay phim bị tiếng rè rè không nghe rõ. điện thoại em mới mua , được ngày? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.250225,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Tại sao khi gọi loa ngoài iphone 6S bị rè khi chuông đổ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 25.993238,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "Ac cho mình hỏi. Mình đang xài con Lenovo k6 note mua của TGDD. Khi quay video và coi lại thấy âm thanh bị rè. Cho hỏi nguyên nhân do đâu ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 25.01261,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Xin chào,cho mình hỏi camera sau ip6+ của mình khi bật lên có tiếng kêu rè rè (như bị đứng) màn hình hơi rung rung,không biết là bị gì nữa bên mình có hỗ trợ sửa chữa không ạ? ( mình mua ở nơi khác )",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.930477,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Mình xài samsung j3 pro. Tự dưng ghi âm rè rè. Cắm tai nghe vẫn bình thường, làm sao để khắc phục?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.41589,

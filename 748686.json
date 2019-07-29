@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Tôi quên mật khẩu iCloud làm sao để lấy lại, giúp tôi lấy lại với? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 34.439995,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Mình quên câu hỏi bảo mật bây giờ muốn đổi mật khẩu ID mà không biết làm cách nào có ai biết giúp mình với  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.684328,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " Tôi bị hack mất ID và mật khẩu Apple còn lại email cũ của tài khoản đó, tôi có thể lấy lại được tài khoản không? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 29.641348,

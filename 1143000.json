@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Anh chị ơi cho e hỏi máy e bị làm sao và cách khắc phục với. Em cảm ơn  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 27.08089,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " máy mình như thế này là bị làm sao vậy?? cho mình cách khắc phục với. cám ơn  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.376715,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " Ad cho em hỏi điện thoại mà bị như thế này là sao ạ.Có cách gì để khắc phục đây ạ  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.129622,

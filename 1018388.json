@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Mình muon hỏi chính sách đổi trả hàng cua tgdd.phí trừ thế nào",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 34.507744,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Cho em hỏi. Máy em là Sony xperia X. Các phím cứng không được khít thì có phải do lỗi của nhà sx kô ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.106842,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi những lỗi nào của điện thoại thì được đổi trả hả bạn.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 30.612207,

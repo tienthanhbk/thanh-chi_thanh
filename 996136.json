@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Giá sim vina bùm tại các cửa hàng thế giới di động là bao nhiêu ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.615585,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "mình vừa mất sim bùm  mà thời gian sử dụng còn 3 tháng mình có được cấp lại hay mua thêm sim bùm không",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.345446,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Cửa hàng còn bán sim vina bùm không ạ?Có phải mua bất cứ điện thoại nào cũng đều có thể mua sim vina bùm không ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.659119,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Tôi muốn mua một chiếc sim Vina Bùm 50 có đc không vậy",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.50568,
@@ -107,7 +107,7 @@
          "field_search": "question",
          "question": "Cho em hỏi thế giới di động Sim vina bùm 250k còn không vậy ạ?????",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.234417,

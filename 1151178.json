@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "cho mình hỏi muốn chạy chương trình sony xperia z1 thì phải làm như thế nào?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.000898,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " làm thế nào để chạy lại chương trình cho điện thoại ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.832438,

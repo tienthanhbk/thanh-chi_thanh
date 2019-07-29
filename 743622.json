@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Mình đang dùng iPhone 4 muốn hỏi mình quên Mail và mật khẩu, làm cách nào để tìm thấy được? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 33.270527,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Mình lập icloud bằng địa chỉ mail cũng đuôi icloud.com, bây giờ mình quên mất mật khẩu icloud, ko biết lấy lại mật khẩu bằng cách nào. các bạn giúp mình với!! :(",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 32.38249,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Mật khẩu chạy chương trình iPhone 4 và khi mình quên mật khẩu của tài khoản ID mình phải làm gì mới lấy lại được. ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.476028,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " em quên ID và email của icloud nhưng nhớ mật khẩu làm thế nào để lấy lại ID  ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 31.26743,

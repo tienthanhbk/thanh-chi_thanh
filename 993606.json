@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Chào admin thegioididong; Mình xài laptop dell vostrol 5470, vừa cái lại win7 64 bit. Minh đã cài driver wifi (cài nhiều lần từ các nguồn khác nhau), laptop đã bắt sóng wifi và sử dụng bình thường. Tuy nhiên biểu tượng cột sóng wifi trên thanh taskbar lại có dấu sao màu vàng (như là chưa kết nối wifi), phải ấn vào nó mới thấy kết nối wifi (connected và hiện thị số vạch sáng)Mình thử nhiều cách nhưng vẫn không sử được, nhờ admin giúp mình nhé. Cám ơn rất nhiều.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 110.979195,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "xin chào admin, mình mới sử dụng máy dell mua của cửa hàng bên mình. mình đang có vấn đề muốn KT hãng giúp mình. mình dùng lap bắt wifi của công ty mình thì hiện lên như thế này. tên wifi là cái cuối cùng đấy. có vòng tròn và dấu x bên trong. mình không kết nối được .Wifi này thì mình dùng cho điện thoại ok. Vậy xin cho mình hỏi mình phải làm thế nào để khắc phục lỗi trên và kết nối mạng wifi như trên được. Cảm ơn admin.",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 95.777374,

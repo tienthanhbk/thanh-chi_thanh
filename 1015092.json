@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "Cho e hỏi e mới mua samsung a7 2018 mà giờ muốn đổi oppo f9 phải bù bao nhiêu tiền. Máy mới không trầy xước gì",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 50.425957,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Mua lenovo tab 2 a730 được 1 năm, muốn đổi máy mua máy khác bù trừ như thế nào",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 49.646835,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Cho em hỏi em có mua dt samsung A8plush tháng 2/2019 là hết 1 năm bảo hành giờ máy bị lỗi nhiều quá,em có thể đổi máy khác bù tiền thêm không ạ?",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 49.090908,

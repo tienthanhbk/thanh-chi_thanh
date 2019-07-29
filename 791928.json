@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Cửa hàng có thay màn hình cảm ứng cho iphone 5s và giá bao nhiêu ạ? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.350624,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Cho em hỏi là cửa hàng mình có thay màn hình iphone không ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 26.244167,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Cho em hỏi bên mình có thay màn hình iPhone 5s không ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 25.491024,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi bên TGDĐ có thay màn hình iPhone 5S ko? nếu thay giá bao nhiêu? và có bảo hành không? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.852577,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": " AD ơi cho mình hỏi tại cửa hàng TGDĐ có thay được màn hình iPhone 5 không? Và giá khoảng bao nhiêu? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 24.133781,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "Bên mình có thay màn hình điện thoại iphone 5s không ạ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.87872,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi là mình muốn thay màn hình ngoài đt iphone 5 ở cửa hàng thì mất bao nhiêu tiền? Hôm trước mình làm rơi đt bị nứt màn hình ở ngoài và vẫn xài bt á",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 23.555172,

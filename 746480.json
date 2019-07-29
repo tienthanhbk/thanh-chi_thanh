@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " TGDĐ còn bán iphone 4s 8GB không ạ ? nếu còn thì giá là bao nhiêu? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 21.429132,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " điện thoại iphone 4s bị dính icloud có sửa được không và giá bao nhiêu vậy anh? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 17.242048,
@@ -91,7 +91,7 @@
          "field_search": "question",
          "question": " Cho hỏi điện thoại iPhone 4S 16GB giá bao nhiêu vậy? ",
          "answer": "_",
-         "relate_q_q": 1
+         "relate_q_q": 0
       },
       {
          "score": 16.877851,

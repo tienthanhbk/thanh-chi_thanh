@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Kiểm tra dùm em số imei 354455065837450 xem có phải hàng chính hãng không add ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 19.439758,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "xin cho hỏi có thể kiểm tra Iphone 7  bán ở thị trường nào thông qua số IMEI được không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 19.047136,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": " Chào QTV, có thể check giúp mình số imei 354443061416032 có phải là iphone chính hãng apple không? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 18.591629,

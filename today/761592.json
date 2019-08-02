@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Tôi sau khi reset lại laptop lenovo yoga 520 thì không thể sử dụng được bàn phím, tôi không thể nhập được kí tự bằng số. Làm cách nào để có thể sử dụng bàn phím như lúc trước ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 35.219116,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": "xin chào anh chị Thế Giới Di Động hôm trước em có mua cái laptop Dell Inspiron 5459 i7 trên bàn phím có nút mở đèn bàn phím nhưng em bật hoài nó không lên đèn mong anh chị giúp dùm em...",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.568546,

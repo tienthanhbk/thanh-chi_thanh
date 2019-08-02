@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Bữa trước em có hỏi bằng số imei có thể tìm lại iphone không . Thì có người trả lời em là hiện giờ chưa có cách nào tìm được . Nhưng em đọc trên mạng thì được biết có thể tìm được . Cho em 1 câu trả lời chính xác .",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 38.35844,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Sáng e hỏi thì bị xoá đi . Em hỏi ở Việt Nam bây giờ nếu công an với nhà mạng phối hợp thì có thể tìm iphone qua số imei không . Máy em lúc đó mới kích hoạt chưa bỏ sim . ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.581102,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Em nghe nói có thể tìm được ip đã mất qua imei hoặc id Apple. Có đúng không ạk ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.354113,

@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Ad tư vấn dùm. Mình đang cần mua laptop chủ yếu để chơi game nặng như Liên Minh Huyền Thoại, Fifa Online 3.... Mua laptop nào là tốt!!!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 77.12081,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " E sinh viên muốn mua 1 laptop chơi lmht đc á giá rẻ thôi. Mong anh tư vấn giùm ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 75.404274,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "tư vấn giúp em mua laptop phân khúc 20-25 triệu để học tập và có thể chơi 1 số tựa game như liên minh,... nhu cầu chính của em vẫn là học",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 75.176125,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "mình đang dự định mua laptop để phục vụ cho nhu cầu giải trí như lướt web, xem phim và chơi game như liên minh huyền thoại,fifa oline 3 ở tầm giá khoảng từ 8 đến 12 triệu thì nên mua máy của hãng nào là tốt nhất, mình đang phân vân giữa dell và asus mong hãy tư vấn cho mình",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 73.41342,

@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "thế giới di động có bảo hành hạ cấp andriod 9 xuống 8 không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 38.587433,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Mình mua máy iPhone 4S của thế giới di động, máy sài iOS 9, mình muốn hạ từ iOS 9 xuống iOS 8 mình có thể đến cửa hàng nhờ cài đặt lại được không ạ!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 36.368073,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi tgdd có hạ từ ios 9 xuống ios 8 không ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.773624,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Thế giới di động có hạ ios 9.2 xuống 8.4 không ạ ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.045166,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": " QTV cho mình hỏi ở TGDĐ có hạ iOS 9 xuống 8 được không vậy? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.904451,
@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi iOS 9 có hạ xuống iOS 8 được chưa ạ Apple đã mở khóa chưa vậy? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.535166,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": " các anh ơi cho em hỏi hiện tại có thể hạ cấp từ ios 9 xuống 8 không ạ,em xin chân thành cảm ơn ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.12373,

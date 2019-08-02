@@ -75,7 +75,7 @@
          "field_search": "question",
          "question": " Ở đây có bán iPhone 5 lock không vậy? Nếu có thì bao nhiêu tiền? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.587511,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Dạ cho em hỏi iPhone 5 giá giờ bao nhiêu em muốn mua nhưng có nhiều giá quá em muốn biết chính xác giá của nó là bao nhiêu?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.32325,

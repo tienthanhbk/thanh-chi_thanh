@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Tôi muốn hỏi iphone 6 của tôi đang ở ios 9.1, hiện tôi muốn hạ phiên bản có được không, và hạ được xuống ios nào, thanks",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 39.144524,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi iOS 9.1 có thể jailbreak được chưa. Nếu không được thì có thể hạ xuống iOS 8. để jb không. Cảm ơn! ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 37.639763,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Cho em hỏi e đang dùng Iphone 5s IOS 9.1  giờ em muốn hạ xuống IOS 8.4 có được không vậy? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 37.267815,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": " Có thể hạ cấp IOS 9.1 xuống IOS 9.0.2 để Jaibreak được không a? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 37.218597,
@@ -83,7 +83,7 @@
          "field_search": "question",
          "question": "Cho e hỏi . Em đang dùng iphone 4s và hệ đêu hành ios 9.1 . Nhưng máy có hiện tương giật màn hình khi sử dụng ios 9.1 !!! Vậy e muốn hạ xuống ios 8.4 có được không ạ ??? Và nếu hạ được mất bao nhiêu tiền ạ !!! Mong ac giúp đỡ e",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 34.904537,

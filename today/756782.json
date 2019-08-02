@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": "Mình đã cài tài khoản icloud và dùng rất bình thường. Nhưng có 1 vài ứng dụng khi mình cập nhật thì nó cứ ra tài khoản icloud của người khác ( nếu mình cài đặt 1 ứng dụng mới nó vẫn sử dụng tài khoản của mình)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 55.64153,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": "Add cho mình hỏi. lúc mình mua máy về có sử dụng tài khoản icloud của đứa bạn. sau đó mình đã sử dụng tài khoản icloud của mình. mình kiểm tra các thứ vẫn là tài khoản của mình nhưng khi mình cập nhật ứng dụng trong app store thì có phần itunes store bắt nhập mật khẩu cho id appel và khi đó nó hiện lên tài khoản của bạn mình.cho hỏi bây giwof mình phải làm thế nào để đăng xuất vĩnh viễn cái tài khoản của bạn mình",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 52.618904,
@@ -27,7 +27,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi sao đăng xuất tài khoản icloud cũ rồi nhập tài khoản mới luôn khi mình cập nhật lại ứng dụng nó cứ kiu nhập mk cũ là s zị pn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 51.3338,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "Anh ơi. Ipad em vào cập nhật ứng dụng nó bắt nhập mật khẩu tài khoản cũ mà cái tài khoản ấy lâu rồi và nó cũng không phẢi cái trong cài đặt luôn. Nhập linh tinh nó bảo là tài khoản này bị khoá rồi",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 51.169895,
@@ -43,7 +43,7 @@
          "field_search": "question",
          "question": "Mình đã cài tài khoản iCloud cho iPhone 5s .nhưng khi mình vào tải các ứng dụng máy lại bắt nhập mật khẩu của tài khoản khác. Mình phải làm như thế nào a?. Xin trợ giúp mình với. Cám ơn rất nhiều",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 50.023037,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": "Cho em hỏi em dùng iPhone 5 em đã đăng nhập tài khoản appstore mới rồi mà khi em tải ứng dụng về máy toàn yêu cầu nhập mật khẩu của tài khoản cũ là sao ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 49.966587,
@@ -59,7 +59,7 @@
          "field_search": "question",
          "question": "Mình đã lập tai khoản icloud mới đã cài và tải được ứng dụng về nhưng khi có thông báo cập nhật bản mới nhât,lúc cập nhật máy lại báo nhập pas cua tai khoản icloud cũ chước đó, trong khi đó ứng dụng đó mình đã cài và tải bằng tải khoản icloud của mình lập",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 49.853874,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "CHo em hỏi là sao em thoát tài khoản itunes store của người trước ra rồi và đăng nhập tài khoản của em vào rồi mà bây giờ e cập nhật ứng dụng hay tải gì nó vẫn yêu cầu mật khẩu ních của người cũ kia.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 49.696075,

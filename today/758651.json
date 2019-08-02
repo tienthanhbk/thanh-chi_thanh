@@ -11,7 +11,7 @@
          "field_search": "question",
          "question": " Máy mình hết lượn tạo tài khoản icluod rôi ai tao hộ một tài khoản với. ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 32.31162,
@@ -19,7 +19,7 @@
          "field_search": "question",
          "question": " Ai tạo hộ cái tài khoản app store với máy mình hết lượt tạo rồi ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 29.447285,
@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": " Sao mình tạo tài khoản itune app không được vậy. Ad giúp mình với? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 27.734653,
@@ -51,7 +51,7 @@
          "field_search": "question",
          "question": " Em cần trợ giúp mã thư tín để lập được một tài khoản gmail cho iPhone có ai biết giúp em với. ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 27.118076,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": "Cho em hỏi em đã đăng kí icloud và bị lỗi không vào được em đăng kí lại thì hiện lên là thiết bị này không thể tạo thêm tài khoản nào nữa em muốn tạo cái làm cách nào ai biết chỉ giúp em với ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 25.932854,

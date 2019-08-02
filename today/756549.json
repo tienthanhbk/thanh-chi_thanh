@@ -35,7 +35,7 @@
          "field_search": "question",
          "question": "các anh chị cho em hỏi chút. e quên mất ID của icloud trên iphone 5s giờ không kích hoạt được điện thoại thì phải làm sao ạ? xin các anh chị chỉ giúp cho. em xin cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 35.606766,
@@ -67,7 +67,7 @@
          "field_search": "question",
          "question": " bây giờ em quên mk icloud với quên mất địa chỉ email thì em có lấy lại được mật khẩu icloud nữa không..mong giúp đỡ ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 34.587116,
